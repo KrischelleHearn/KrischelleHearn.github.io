@@ -1426,7 +1426,7 @@ progress {
     flex: 0 0 auto;
     width: auto;
     margin: auto;
-    color: #fff;
+    color: #fff !important;
   }
 
   

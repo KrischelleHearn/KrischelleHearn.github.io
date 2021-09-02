@@ -1425,7 +1425,8 @@ progress {
   .col-lg-13 {
     flex: 0 0 auto;
     width: auto;
-	margin: center;
+    margin: auto;
+	  
   }
 
   
